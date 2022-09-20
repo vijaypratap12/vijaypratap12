@@ -25,8 +25,7 @@
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>  
-<img src="https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white"/>  
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>  
+<img src="https://img.shields.io/badge/ClickUp-000000.svg?style=for-the-badge&logo=ClickUp&logoColor=white"/>
 </p>
 
 
