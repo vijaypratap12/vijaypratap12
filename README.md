@@ -2,11 +2,9 @@
 <h1 align="left">Happy seeing you here!</h1>
 
 ## 🌐Socials
-[![Linktree]](https://linktr.ee/pratapsingh845)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratapsingh845/) 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PratapSingh845)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pratapsingh845/?hl=en)
- [![c-sharpcorner]](https://www.c-sharpcorner.com/members/vijay-pratap8)
 
  
 ## 💻Tech Stack
